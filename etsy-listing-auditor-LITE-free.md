@@ -7,6 +7,8 @@ description: Free lite version — run a compliance-only checklist on a draft Et
 
 Version: November 2026. One job: check a draft Etsy listing against the compliance rules below and list what fails.
 
+> **This is the free checklist version** — compliance checks only. The full Auditor adds an SEO pass, exact character counts on every check, and a fix-by-fix report with the exact replacement text: https://baselineandbalance.gumroad.com/l/ukxvax
+
 ## Inputs
 
 Ask for whatever is missing: title, all tags, full description, category, attributes, price and any sale dates, and the list of delivery files with sizes. If the seller can't provide an item, mark its checks "NOT CHECKED — not provided" instead of guessing.
@@ -76,4 +78,4 @@ Etsy changes its rules. These checks were verified against the Seller Handbook (
 
 ---
 
-**Want the full audit?** The full version of this skill adds an SEO pass (title structure, tag coverage, description opening, attributes and materials), exact character counts on every check, and a fix-by-fix report that quotes each problem and gives the exact replacement text, in the order to fix them.
+**Want the full audit?** The full version of this skill adds an SEO pass (title structure, tag coverage, description opening, attributes and materials), exact character counts on every check, and a fix-by-fix report that quotes each problem and gives the exact replacement text, in the order to fix them: https://baselineandbalance.gumroad.com/l/ukxvax
